@@ -12,5 +12,5 @@ $ npm install -g strudel-cli
 $ strudel new theme my-project
 $ cd my-project
 $ npm install
-$ npm start
+$ npm run watch
 ```
