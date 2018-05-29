@@ -1,0 +1,8 @@
+# SCSS
+js/*.js
+css/*.css
+*.css
+
+# Cache
+node_modules
+.sass-cache

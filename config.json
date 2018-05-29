@@ -1,0 +1,19 @@
+{
+    "prompts": {
+      "name": {
+        "type": "string",
+        "required": true,
+        "label": "Theme name"
+      },
+      "description": {
+        "type": "string",
+        "required": true,
+        "label": "Project description",
+        "default": "Strudel.js project"
+      },
+      "author": {
+        "type": "string",
+        "label": "Author"
+      }
+    }
+  }
